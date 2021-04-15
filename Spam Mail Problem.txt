@@ -1,0 +1,34 @@
+Regularly we check our emails, not all the emails which came to our mail account will appear
+into inbox. Many of them go to spam or junk folders.
+“Ever wondered how it was happening?” 
+How the mails are classified and sent to inbox or spam folder based on the email text? 
+Before any email reaching your inbox, Google is using their own email classifier, which will
+identify whether the received email need to send to inbox or spam.
+If you are still thinking about how the email classifier works don't worry.
+ In this article, we are going to build an email spam classifier in python that classifies the given
+mail is spam or not.
+There are a number of ways to build email classifier using Natural Language Processing different
+algorithms. But in this article, we are going to use the nltk library to build the email
+classifier.
+Spam Mails :- Email spam, also referred to as junk email, is unsolicited messages sent in bulk
+by email.The name comes from a Monty Python sketch in which Spam is ubiquitous, unavoidable, and
+repetitive. Email spam has steadily grown since the early 1990s, and by 2014 was estimated to
+account for around 90% of total email traffic.
+Since the expense of the spam is borne mostly by the recipient, it is effectively advertising. This
+makes it an excellent example of a negative externality.
+The legal definition and status of spam varies from one jurisdiction to another, but nowhere have
+laws and lawsuits been particularly successful in stemming spam.
+Problem Definition :-
+Spam is sent by both reputable organizations and lesser companies. When spam is sent by
+reputable companies it is sometimes referred to as Mainsleaze. Mainsleaze makes up
+approximately 3% of the spam sent over the internet. The problem with mainsleaze is that it is
+generally mixed in with mail that the recipients asked for, and it is difficult to tell the difference
+using traditional mail filters. As a result, if a mail system filters out all the mail from a
+mainsleazer, they will get complaints from the people who signed up.
+It was estimated in 2009 that spam cost businesses around US$130 billion. As the scale of the
+spam problem has grown, ISPs and the public have turned to government for relief from spam,
+which has failed to materialize.
+Spam is also a medium for fraudsters to scam users into entering personal information on fake
+Web sites using emails forged to look like they are from banks or other organizations, such
+as PayPal. This is known as phishing. Targeted phishing, where known information about the
+recipient is used to create forged emails, is known as spear-phishing
