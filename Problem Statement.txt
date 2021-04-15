@@ -1,0 +1,3 @@
+The exact problem statement was thus as below:  		         
+Given a group of sentences or paragraphs, used as a comment by a user in an online platform, classify it to belong to one or more of the following categories['malignant','highly_malignant','rude','threat','abuse','loathe'] with either approximate probabilities or discrete values (0/1).
+As the task was to figure out whether the data belongs to zero, one, or more than one category out of the six listed above, the first step before working on the problem was to distinguish between multi-label and multi-class classification. Hence, I had a multi-label classification problem to solve. The next step was to gain some useful insights from data which would aid further problem solving.
