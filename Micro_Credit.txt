@@ -1,0 +1,18 @@
+Micro Credit defaulter is a condition that arises when a person fails to  payback the loan amount which he has taken on or before the expected date or pays it later.
+As after the covid-19 pandemic or even before that there was a need for such type credit system by a telecom companies as people some times get stuck at remote areas where they did not find any a good internet connection to recharge their number or there are not any retail shops which offers such recharge facilities, or at the time emergency when there is no tme for going out for a recharge then these type of credit system can help the customers by getting their numbers recharge and paying it back in 5 to 6 days times.
+Mobile phones have spread dramatically: there are over 4.5 billion mobile phones in developing countries (ITU, 2011).
+Telecoms often extend credit to help smooth phone consumption itself: as incomes rise, consumers are expected to transition from prepaid to post paid plans, which are essentially rolling credit accounts. Phone networks can also be used to mediate loans for consumer durables, And through mobile money, phone networks can provide loans directly to consumers at close to zero transaction costs. This can enable forms of credit different from micro credit.
+However, all of these applications face a fundamental problem: how can a lender assess whether a potential borrower will repay?
+This project develops to predict repayment of credit using mobile phone metadata, which are already being collected and is given to us as a dataset. Here we  use a machine learning approach to combine these signals into a prediction of repayment. 
+
+
+
+
+
+
+
+Analytical Problem Framing
+
+•	Data Sources and their formats
+In this use case The sample data is provided to us from our client database, which contains information about different customers.
+The dataset consist of 209593 rows and 36columns , and there are several categorical as well as numerical columns present in the dataset providing various information about customers.
